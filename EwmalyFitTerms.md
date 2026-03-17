@@ -23,7 +23,7 @@ Auto-Renewal: Your subscription will automatically renew unless canceled at leas
 Cancellations & Refunds: You can manage or cancel your subscription at any time by navigating to your device's account settings (Apple App Store or Google Play Store). We do not have the ability to manage, cancel, or refund subscriptions directly, as this is securely handled by Apple and Google.
 
 4. Data and Privacy
-Your privacy is our priority. As detailed in our [Link to your Privacy Policy], your personal health metrics, weigh-ins, and nutritional logs are stored locally on your device. We do not maintain a cloud database of your personal data. Deleting the app will permanently delete your stored data.
+Your privacy is our priority. As detailed in our [https://crafecity.github.io/app-legal-docs/EwmalyFitPrivacy], your personal health metrics, weigh-ins, and nutritional logs are stored locally on your device. We do not maintain a cloud database of your personal data. Deleting the app will permanently delete your stored data.
 
 5. Third-Party Integrations
 Health Data: You may choose to grant the app read-only access to Apple HealthKit or Google Health Connect. We use this data strictly for local calculations and do not transmit it to external servers.
